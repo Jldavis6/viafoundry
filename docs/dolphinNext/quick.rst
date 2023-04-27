@@ -5,7 +5,7 @@ Quick Start Guide
 Signing Up
 ==========
 
-This guide will walk you through how to start using ViaFoundry (formerly DolphinNext) pipelines. First off, you need to navigate to the ViaFoundry web page at https://www.viafoundry.com and click the ``Log in`` button. You will be asked to enter your institute's log-in information. An email will be sent to you once your information has been verified. 
+This guide will walk you through how to start using Via Foundry (formerly DolphinNext) pipelines. First off, you need to navigate to the Via Foundry web page at https://www.viafoundry.com and click the ``Log in`` button. You will be asked to enter your institute's log-in information. An email will be sent to you once your information has been verified. 
 
 .. image:: dolphinnext_images/sign_in.png
 	:align: center
@@ -14,7 +14,7 @@ This guide will walk you through how to start using ViaFoundry (formerly Dolphin
 Creating Profile
 ================
 
-Once you enter the ViaFoundry platform, the ``Profile Wizard`` will open as shown below. 
+Once you enter the Via Foundry platform, the ``Profile Wizard`` will open as shown below. 
 
 .. image:: dolphinnext_images/profilewizard_first.png
 	:align: center
@@ -96,7 +96,7 @@ Running Pipelines
     </br>
 
 
-1. The easiest way to run a pipeline is from the main page, by clicking the ``Biocore ViaFoundry`` button at the top left of the screen. From here, you can investigate publicly available pipelines as shown below and select the pipeline you want to run by clicking the ``Learn More`` button.
+1. The easiest way to run a pipeline is from the main page, by clicking the ``Biocore Via Foundry`` button at the top left of the screen. From here, you can investigate publicly available pipelines as shown below and select the pipeline you want to run by clicking the ``Learn More`` button.
 
     .. image:: dolphinnext_images/main_page.png
 	   :align: center
@@ -182,7 +182,7 @@ For detailed information about adding files, feel free to reference our tutorial
 How To Cite Us
 ==============
 
-If you use ViaFoundry (formerly DolphinNext) in your research, please cite:
+If you use Via Foundry (formerly DolphinNext) in your research, please cite:
 
 Yukselen, O., Turkyilmaz, O., Ozturk, A.R. et al. DolphinNext: a distributed data processing platform for high throughput genomics. BMC Genomics 21, 310 (2020). https://doi.org/10.1186/s12864-020-6714-x
 
