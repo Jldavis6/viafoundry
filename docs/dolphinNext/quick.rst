@@ -51,7 +51,7 @@ If you choose the MGHPCC option, you can skip the rest of this guide and go to t
     
 **Important:**
 
-**Username/Hostname:** You should enter your username and the hostname of the host to which you would like to connect (yourusername@yourhostname). For instance, for us2r@ghpcc06.umassrc.org::
+**Username/Hostname:** You should enter your username and the hostname of the host to which you would like to connect (yourusername@yourhostname). For instance, for the account us2r@ghpcc06.umassrc.org::
     
         *  Username: yourusername (eg. us2r)
         *  Hostname: yourhostname (eg. ghpcc06.umassrc.org)
